@@ -9,7 +9,7 @@ Install via the Extension Marketplace in VSCode.
 OR
 
 ```
-code --install-extension TheBrenny.regexr-webview
+code --install-extension JustBrenny.regexr-webview
 ```
 
 ## Features
