@@ -4,7 +4,7 @@ A set of targets/milestone features that I'd like to see implemented into produc
 
 ## Must Have
 
-- [ ] Open RegExr in a WebView tab
+- [x] Open RegExr in a WebView tab
 - [ ] Locally "hosted" and accessible even when offline
 
 ## Should Have
