@@ -3,7 +3,7 @@
 	"displayName": "RegExr (WebView)",
 	"description": "Opens a WebView panel to https://regexr.com",
 	"publisher": "JustBrenny",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/TheBrenny/regexr-webview.git"
